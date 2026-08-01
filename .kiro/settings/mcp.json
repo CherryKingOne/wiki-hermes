@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "code-review-graph": {
+      "command": "uvx",
+      "args": [
+        "code-review-graph",
+        "serve"
+      ],
+      "cwd": "/Users/edy/Documents/\u4e2a\u4eba\u9879\u76ee\u5f00\u53d1/hermes-agent",
+      "type": "stdio"
+    }
+  }
+}

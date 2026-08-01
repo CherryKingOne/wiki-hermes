@@ -1,0 +1,14 @@
+{
+  "mcp": {
+    "code-review-graph": {
+      "type": "local",
+      "command": [
+        "uvx",
+        "code-review-graph",
+        "serve",
+        "--repo",
+        "/Users/edy/Documents/\u4e2a\u4eba\u9879\u76ee\u5f00\u53d1/hermes-agent"
+      ]
+    }
+  }
+}
